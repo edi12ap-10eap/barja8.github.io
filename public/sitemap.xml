@@ -203,7 +203,16 @@
   </url>
   
   <url>
+    <loc>/cv/mycv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
   </url>
   
 </urlset>
