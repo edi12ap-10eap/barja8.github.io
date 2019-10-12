@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academic"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "icon-512.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = "hero-academic.png"
   gradient_end = "#2b94c3"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
+  # image = "icon-512.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
